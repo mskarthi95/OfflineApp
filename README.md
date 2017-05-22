@@ -1,5 +1,5 @@
 # OfflineApp
-<h1 color="Red"> Application cache </h1
+<h1> Application cache </h1
 
 <p>Offline app by using HTML5</p>
 
